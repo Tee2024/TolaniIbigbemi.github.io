@@ -2,8 +2,7 @@
  Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
-
+Hello!I'm Tolani Ibigbemi a dedicated data analyst consultant and trainer, passionate about empowering organizations to leverage data for informed decision-making. With experience across sales, education, and customer service, I specialize in data analysis, visualization, and tailored training programs that help teams unlock insights and drive business growth.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
