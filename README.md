@@ -8,13 +8,13 @@ Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a pa
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Lead Analyst of Thinkraft Skill Hub Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
 **- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+I excel at analyzing complex datasets to uncover trends, patterns, and insights. This skill enables me to provide actionable recommendations that help organizations make informed, data-driven decisions. I enjoy transforming raw data into meaningful narratives that drive business strategies.
 
 **- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I have a strong ability to communicate complex concepts in a clear and relatable manner. Whether I'm conducting training sessions or presenting findings to stakeholders, I focus on ensuring that everyone understands the insights derived from the data. My goal is to empower others with the knowledge they need to leverage data effectively in their roles.
 
 
 <!--Section 2: List 3-4 key projects-->
