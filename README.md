@@ -1,5 +1,6 @@
 # TolaniIbigbemi.github.io
  Introduce your self-->
+ 
 ## ABOUT ME
 
 Hello!I'm Tolani Ibigbemi a dedicated data analyst consultant and trainer, passionate about empowering organizations to leverage data for informed decision-making. With experience across sales, education, and customer service, I specialize in data analysis, visualization, and tailored training programs that help teams unlock insights and drive business growth.
@@ -77,4 +78,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <repository_url>
+git push -u origin master
+
 
